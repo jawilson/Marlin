@@ -491,10 +491,10 @@ const bool Z_MIN_PROBE_ENDSTOP_INVERTING = false; // set to true to invert the l
 
 // Travel limits after homing (units are in mm)
 #define X_MIN_POS -3
-#define Y_MIN_POS -27
+#define Y_MIN_POS -13
 #define Z_MIN_POS 0
-#define X_MAX_POS 192
-#define Y_MAX_POS 170
+#define X_MAX_POS 198
+#define Y_MAX_POS 198
 #define Z_MAX_POS 160
 
 //===========================================================================
